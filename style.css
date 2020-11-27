@@ -1,0 +1,12 @@
+.separateur{
+    width: 1px;
+    height: 100%;
+}
+
+.bgsepred{
+    background-color: red;
+}
+
+.bgsepblack{
+    background-color: black;
+}
